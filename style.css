@@ -1,0 +1,77 @@
+#mi-encabezado {
+background-image: url("img.nini.jpg");
+background-size: cover;
+background-position: center; 
+height: 35rem; 
+
+color: #ffffff; 
+text-orientation: upright;
+text-align: center; 
+padding: 20px; 
+}
+
+#mi-encabezado h1 {
+font-size: 45px; 
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#mi-encabezado p {
+font-size: 25px; 
+}
+
+nav {
+background-color: rgba(0, 66, 190, 0.849);
+padding: 20px;
+position: fixed; 
+top: 0;
+left: 0;
+width: 100%;
+transition: background-color 0.5s; 
+fondo 
+}
+
+ul{
+list-style-type: none;
+text-align: right;
+margin-right: 3rem;
+}
+
+li {
+display: inline;
+margin-right: 30px; 
+}
+
+a {
+text-decoration: none;
+color: #fffdfd; 
+font-weight: bold;
+}
+
+a:hover {
+color: #0cf346; 
+}
+body {
+margin-top: 0px; 
+margin-left: 0px;
+margin-right: 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.contenido {
+color: #000000;
+font-size: 20px;
+padding: 5%;
+text-align:justify;
+
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+background-color: rgb(71, 96, 167);
+padding: 10rem;
+color: #fffdfd;
+color: #ffffff; 
+text-align: center; 
+
+}
