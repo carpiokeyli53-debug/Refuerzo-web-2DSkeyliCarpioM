@@ -20,7 +20,7 @@ font-size: 25px;
 }
 
 nav {
-background-color: rgba(0, 66, 190, 0.849);
+background-color: rgba(212, 30, 212, 0);
 padding: 20px;
 position: fixed; 
 top: 0;
@@ -32,8 +32,8 @@ fondo
 
 ul{
 list-style-type: none;
-text-align: right;
-margin-right: 3rem;
+text-align:right; 
+margin-right:3rem;
 }
 
 li {
@@ -43,7 +43,7 @@ margin-right: 30px;
 
 a {
 text-decoration: none;
-color: #fffdfd; 
+color: #ffffff; 
 font-weight: bold;
 }
 
@@ -68,9 +68,9 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
-background-color: rgb(71, 96, 167);
+background-color: rgb(235, 127, 245);
 padding: 10rem;
-color: #fffdfd;
+color: #ffffff;
 color: #ffffff; 
 text-align: center; 
 
